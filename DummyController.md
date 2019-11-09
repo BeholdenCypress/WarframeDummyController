@@ -1,6 +1,6 @@
 This is the process to make a "dummy controller" that warframe will accept:
 
-#Thanks to xarvh for making this possible
+# Thanks to xarvh for making this possible
 
 Makesure you have **xboxdrv** loaded as a service
 
