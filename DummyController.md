@@ -4,7 +4,7 @@ Makesure you have **xboxdrv** loaded as a service
 
 to accomplish this, make sure you already have xboxdrv installed, **sudo apt install xboxdrv** if you do not
 
-with that installed, you want to use the following command **curl -O https://gist.githubusercontent.com/xarvh/6abfbd176a48e21886813e98480e9dc5/raw/96642aeea1a1f59d9f59cff5b6ecbb20362fdfd3/xboxdrv.service** (Make sure you have curl installed, I think it comes preinstalled)
+with that installed, you want to use the following command "**curl -O htt<span>**ps://g**</span>ist.githubusercontent.com/xarvh/6abfbd176a48e21886813e98480e9dc5/raw/96642aeea1a1f59d9f59cff5b6ecbb20362fdfd3/xboxdrv.service**" (Make sure you have curl installed, I think it comes preinstalled)
 
 then type **sudo mv xboxdrv.service /etc/systemd/system**
 
